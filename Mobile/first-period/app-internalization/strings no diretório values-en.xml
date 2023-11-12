@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internationalize</string>
+    <string name="texto">Hello World!!!</string>
+    <string name="fechar">Close</string>
+</resources>
