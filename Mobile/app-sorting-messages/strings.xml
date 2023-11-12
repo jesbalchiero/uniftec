@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sortear Mensagens</string>
+    <string name="sortear">Sortear</string>
+    <string name="fechar">Fechar</string>
+
+    <string-array name="mensagens">
+        <item>A vida é bela!</item>
+        <item>Aos poucos tudo melhora!</item>
+        <item>Um passo de cada vez!</item>
+        <item>Às vezes a vida nos desafia, mas tudo vai dar certo!</item>
+        <item>Se as coisas estão difíceis, calma, pense, converse e planeje, tudo irá dar certo!</item>
+    </string-array>
+</resources>
