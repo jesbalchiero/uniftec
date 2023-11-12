@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Agenda</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="consultar">Consultar</string>
+    <string name="nome">Nome:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="limpar">Limpar</string>
+    <string name="voltar">Voltar</string>
+    <string name="telefonar">Telefonar</string>
+</resources>
