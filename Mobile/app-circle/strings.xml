@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Circulo</string>
+    <string name="raio">Raio:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="resultado">Resultado:</string>
+</resources>

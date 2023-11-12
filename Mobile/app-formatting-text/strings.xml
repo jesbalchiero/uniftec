@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Texto Justificado</string>
+    <string name="texto">No século VII, o matemático indiano
+        Brahmagupta explicou pela primeira vez o sistema de
+        numeração hindu-arábico e o uso do 0. Aproximadamente
+        em 825, o matemático persa Al-Khwarizmi escreveu o livro
+        Calculando com numerais hindus, responsável pela difusão
+        do sistema de numeração hindu-arábico no Oriente Médio,
+        e posteriormente na Europa. Por volta do século XII houve
+        uma tradução do mesmo livro para o latim: Algoritmi de
+        número Indorum. Tais livros apresentaram novos conceitos
+        para definir sequências de passos para completar tarefas,
+        como aplicações de aritmética e álgebra. Por derivação do
+        nome, atualmente usa-se o termo algoritmo.
+        No século VII, o matemático indiano
+        Brahmagupta explicou pela primeira vez o sistema de
+        numeração hindu-arábico e o uso do 0. Aproximadamente
+        em 825, o matemático persa Al-Khwarizmi escreveu o livro
+        Calculando com numerais hindus, responsável pela difusão
+        do sistema de numeração hindu-arábico no Oriente Médio,
+        e posteriormente na Europa. Por volta do século XII houve
+        uma tradução do mesmo livro para o latim: Algoritmi de
+        número Indorum. Tais livros apresentaram novos conceitos
+        para definir sequências de passos para completar tarefas,
+        como aplicações de aritmética e álgebra. Por derivação do
+        nome, atualmente usa-se o termo algoritmo.\n
+        No século VII, o matemático indiano.</string>
+</resources>

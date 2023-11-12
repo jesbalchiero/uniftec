@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App Jogo Memoria</string>
+    <string name="botao1">Botão 1</string>
+    <string name="botao2">Botão 2</string>
+    <string name="botao3">Botão 3</string>
+    <string name="botao4">Botão 4</string>
+    <string name="botao5">Botão 5</string>
+    <string name="botao6">Botão 6</string>
+    <string name="botao7">Botão 7</string>
+    <string name="botao8">Botão 8</string>
+    <string name="botao9">Botão 9</string>
+    <string name="botao10">Botão 10</string>
+    <string name="botao11">Botão 11</string>
+    <string name="botao12">Botão 12</string>
+</resources>
