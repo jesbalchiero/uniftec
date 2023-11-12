@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Volume Caixa Retangular</string>
+    <string name="comprimento">Comprimento:</string>
+    <string name="altura">Altura:</string>
+    <string name="largura">Largura:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="passar_dados_proxima_tela">Passar Dados Para a Próxima Tela</string>
+    <string name="resultado">Resultado:</string>
+    <string name="erro">Um valor inválido foi informado</string>
+</resources>
