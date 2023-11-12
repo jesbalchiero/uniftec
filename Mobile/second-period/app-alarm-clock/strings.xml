@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Despertador</string>
+    <string name="despertador_desabilitado">Despertador Desabilitado</string>
+    <string name="agendar_para_despertar">Agendar Para Despertar</string>
+    <string name="cancelar_despertador">Cancelar Despertador</string>
+</resources>

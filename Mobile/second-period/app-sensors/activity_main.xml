@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="16dp"
+        android:paddingRight="16dp"
+        android:paddingLeft="16dp"
+        android:paddingTop="16dp" >
+
+        <TextView
+            android:id="@+id/txtSensoresDisponiveis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sensores_disponiveis"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/txtSensores"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#cccccc"
+            android:gravity="center_horizontal|center_vertical"
+            android:scrollbars="vertical"
+            android:layout_marginTop="25dp" />
+
+        <Button
+            android:id="@+id/btnListar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/listar_sensores"
+            android:textColor="@android:color/black"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:backgroundTint="#cccccc"
+            android:layout_marginTop="25dp" />
+
+        <Button
+            android:id="@+id/btnAvancar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/avancar"
+            android:textColor="@android:color/black"
+            android:textAllCaps="false"
+            android:textSize="20sp"
+            android:backgroundTint="#cccccc"
+            android:layout_marginTop="25dp" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

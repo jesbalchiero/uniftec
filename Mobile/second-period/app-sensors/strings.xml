@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensores</string>
+    <string name="sensores_disponiveis">Sensores Disponíveis:</string>
+    <string name="listar_sensores">Listar sensores do dispositivo</string>
+    <string name="avancar">Avançar</string>
+    <string name="valor_lido">Valor Lido:</string>
+    <string name="acelerometro">Acelerômetro</string>
+    <string name="giroscopio">Giroscópio</string>
+    <string name="luminosidade">Luminosidade</string>
+    <string name="proximidade">Proximidade</string>
+</resources>
