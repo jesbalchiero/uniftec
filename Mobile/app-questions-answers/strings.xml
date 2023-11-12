@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo</string>
+    <string name="avancar">Avançar</string>
+    <string name="fechar">Fechar</string>
+    <string name="resultado">Resultado</string>
+    <string name="fechar_aplicativo">Fechar Aplicativo</string>
+</resources>
